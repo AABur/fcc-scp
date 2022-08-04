@@ -2,7 +2,7 @@
 
 """An example script."""
 
-from hexlet_python_package import user
+from fcc_scp import user
 
 
 def main():
